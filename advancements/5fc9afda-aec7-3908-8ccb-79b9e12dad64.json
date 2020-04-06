@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-04-06 01:08:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2020-03-23 21:27:07 +0000"
@@ -1508,6 +1514,7 @@
       "minecraft:taiga_hills": "2020-03-21 22:39:22 +0000",
       "minecraft:desert": "2020-03-18 00:41:01 +0000",
       "minecraft:frozen_river": "2020-03-22 01:37:04 +0000",
+      "minecraft:deep_frozen_ocean": "2020-04-05 20:30:33 +0000",
       "minecraft:jungle": "2020-03-21 01:11:00 +0000",
       "minecraft:birch_forest": "2020-03-19 00:47:47 +0000",
       "minecraft:jungle_hills": "2020-03-21 01:12:24 +0000",
@@ -1520,8 +1527,10 @@
       "minecraft:lukewarm_ocean": "2020-03-22 01:35:47 +0000",
       "minecraft:birch_forest_hills": "2020-03-19 00:48:48 +0000",
       "minecraft:bamboo_jungle_hills": "2020-03-21 22:38:33 +0000",
+      "minecraft:wooded_mountains": "2020-04-06 01:38:09 +0000",
       "minecraft:wooded_hills": "2020-03-18 02:51:53 +0000",
       "minecraft:giant_tree_taiga_hills": "2020-03-21 22:48:05 +0000",
+      "minecraft:stone_shore": "2020-04-06 01:37:29 +0000",
       "minecraft:swamp": "2020-03-19 00:46:14 +0000",
       "minecraft:savanna": "2020-03-18 00:37:21 +0000",
       "minecraft:plains": "2020-03-18 00:36:35 +0000"
@@ -2273,6 +2282,7 @@
       "cooked_cod": "2020-03-25 22:32:28 +0000",
       "bread": "2020-03-18 03:12:38 +0000",
       "golden_apple": "2020-04-04 03:58:16 +0000",
+      "rotten_flesh": "2020-04-05 21:46:52 +0000",
       "salmon": "2020-03-27 00:37:48 +0000",
       "golden_carrot": "2020-03-31 00:07:09 +0000",
       "cooked_chicken": "2020-03-18 19:31:01 +0000",
